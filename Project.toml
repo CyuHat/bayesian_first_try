@@ -1,0 +1,4 @@
+name = "bayesian"
+uuid = "11d22fd6-83f5-47f5-acdf-59b4fa4f5fe2"
+authors = ["CyuHat <80328639+CyuHat@users.noreply.github.com>"]
+version = "0.1.0"
